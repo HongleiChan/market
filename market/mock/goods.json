@@ -1,0 +1,24 @@
+{
+    "status":"0",
+    "mas":"",
+    "result":[
+        {
+            "productId":"100001",
+            "productName":"xx",
+            "productPrice":2499,
+            "productImg":"1.jpg"
+        },
+        {
+            "productId":"100001",
+            "productName":"xxx",
+            "productPrice":2499,
+            "productImg":"2.jpg"
+        },
+        {
+            "productId":"100001",
+            "productName":"xxxxxx",
+            "productPrice":2499,
+            "productImg":"3.jpg"
+        }
+    ]
+}
